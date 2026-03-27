@@ -1,2 +1,4 @@
 pandas>=2.0
 selenium>=4.15
+matplotlib>=3.8
+scikit-learn>=1.3

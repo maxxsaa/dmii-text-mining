@@ -97,4 +97,4 @@ Flag reviews that may be fraudulent or manipulative.
 
 ## Repository Contents
 
-- `scrapong.py` — scraping / data collection script (name as in repo).
+- `scraper-eu.py` — scraping / data collection script (name as in repo).
